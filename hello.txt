@@ -1,4 +1,3 @@
 Hello!
-test4
+Resolving conflict.
 
-Making a second conflict!
